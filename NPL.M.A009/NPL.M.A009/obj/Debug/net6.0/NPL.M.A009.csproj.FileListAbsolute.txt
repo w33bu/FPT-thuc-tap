@@ -1,0 +1,14 @@
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\bin\Debug\net6.0\NPL.M.A009.exe
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\bin\Debug\net6.0\NPL.M.A009.deps.json
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\bin\Debug\net6.0\NPL.M.A009.runtimeconfig.json
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\bin\Debug\net6.0\NPL.M.A009.dll
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\bin\Debug\net6.0\NPL.M.A009.pdb
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\obj\Debug\net6.0\NPL.M.A009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\obj\Debug\net6.0\NPL.M.A009.AssemblyInfoInputs.cache
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\obj\Debug\net6.0\NPL.M.A009.AssemblyInfo.cs
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\obj\Debug\net6.0\NPL.M.A009.csproj.CoreCompileInputs.cache
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\obj\Debug\net6.0\NPL.M.A009.dll
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\obj\Debug\net6.0\refint\NPL.M.A009.dll
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\obj\Debug\net6.0\NPL.M.A009.pdb
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\obj\Debug\net6.0\NPL.M.A009.genruntimeconfig.cache
+C:\Users\namku\source\repos\NPL.M.A009\NPL.M.A009\obj\Debug\net6.0\ref\NPL.M.A009.dll
