@@ -1,0 +1,14 @@
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\bin\Debug\net6.0\NPL.M.A005.Exercise3.exe
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\bin\Debug\net6.0\NPL.M.A005.Exercise3.deps.json
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\bin\Debug\net6.0\NPL.M.A005.Exercise3.runtimeconfig.json
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\bin\Debug\net6.0\NPL.M.A005.Exercise3.dll
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\bin\Debug\net6.0\NPL.M.A005.Exercise3.pdb
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\obj\Debug\net6.0\NPL.M.A005.Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\obj\Debug\net6.0\NPL.M.A005.Exercise3.AssemblyInfoInputs.cache
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\obj\Debug\net6.0\NPL.M.A005.Exercise3.AssemblyInfo.cs
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\obj\Debug\net6.0\NPL.M.A005.Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\obj\Debug\net6.0\NPL.M.A005.Exercise3.dll
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\obj\Debug\net6.0\refint\NPL.M.A005.Exercise3.dll
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\obj\Debug\net6.0\NPL.M.A005.Exercise3.pdb
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\obj\Debug\net6.0\NPL.M.A005.Exercise3.genruntimeconfig.cache
+C:\Users\namku\source\repos\NPL.M.A005\NPL.M.A005.Exercise3\obj\Debug\net6.0\ref\NPL.M.A005.Exercise3.dll
