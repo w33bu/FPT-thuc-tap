@@ -1,0 +1,9 @@
+2023-10-20 18:19:36,126 INFO Ứng dụng bắt đầu
+2023-10-20 18:19:38,734 INFO Kết quả của phép tính 4 + 4 là 8
+2023-10-20 18:19:38,734 INFO Ứng dụng kết thúc
+2023-10-20 18:19:47,694 INFO Ứng dụng bắt đầu
+2023-10-20 18:19:48,548 INFO Kết quả của phép tính 3 + 6 là 9
+2023-10-20 18:19:48,548 INFO Ứng dụng kết thúc
+2023-10-20 18:20:10,697 INFO Ứng dụng bắt đầu
+2023-10-20 18:20:13,342 INFO Kết quả của phép tính 2 + 7 là 9
+2023-10-20 18:20:13,342 INFO Ứng dụng kết thúc
