@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j19WCS7DEguxaX2sjFzcb6DwAhDCJaw9OdcyVBLzeR9KbA3/EvhIpOWcvHNR9nlt8LwEiW7a1exCn6iPKe9P4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\namku\\source\\repos\\ASM11\\ASM11\\ASM11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\namku\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\namku\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\namku\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\namku\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
